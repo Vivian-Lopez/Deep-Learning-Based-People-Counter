@@ -6,7 +6,7 @@
 
 ##
 
-Project Write-up from Analysis Design to Development and Evaluation included in 'Vivian Lopez - Programming Project Final Version.pdf' along with 'app4.py' file which includes the main code for the project
+Project Write-up from Analysis Design to Development and Evaluation included in 'Vivian Lopez - Programming Project Final Version.pdf' along with 'app4.py' file which includes the main inference code for the project.
 
 ##
 
